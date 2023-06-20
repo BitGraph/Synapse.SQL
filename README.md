@@ -1,4 +1,5 @@
 # Synapse.Analytics
+- [What are the main tools for Azure Synapse and SQL???](https://youtu.be/iBwmMklI2Ac)
 - [Why you should look at Azure Synapse Analytics!](https://youtu.be/WbDqeNsmoL4)
 - [Announcing Synapse Link for SQL!](https://youtu.be/pgusZy34-Ek)
 - [Virtualize your existing data into OneLake with shortcuts](https://youtu.be/rFy3LCY5hok)
